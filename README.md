@@ -1,4 +1,4 @@
-# Exercícios-em-Sala
+# Exercícios em Sala
 Gabarito dos exercícios de fixação realizados durante as aulas
 
 ###### Introdução a Algoritmo e Python - 09/03
